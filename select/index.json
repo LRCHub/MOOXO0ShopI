@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Last Summer Whisper",
+  "base_artist": "Anri",
+  "createdAt": "2026-01-14T02:21:03.069395Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Last Summer Whisper",
+      "artist": "杏里",
+      "has_synced": true,
+      "path": "select/01_Last_Summer_Whisper_杏里.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Last Summer Whisper",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/02_Last_Summer_Whisper_Anri.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Last Summer Whisper",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/03_Last_Summer_Whisper_Anri.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Last Summer Whisper",
+      "artist": "杏里",
+      "has_synced": true,
+      "path": "select/04_Last_Summer_Whisper_杏里.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Last Summer Whisper",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/05_Last_Summer_Whisper_Anri.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Last Summer Whisper",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/06_Last_Summer_Whisper_Anri.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Last Summer Whisper",
+      "artist": "N/A",
+      "has_synced": true,
+      "path": "select/07_Last_Summer_Whisper_N_A.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Last Summer Whisper (From \"Anri\")",
+      "artist": "Nattalia Sarria",
+      "has_synced": true,
+      "path": "select/08_Last_Summer_Whisper_(From__Anri_)_Nattalia_Sarria.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Last Summer Whisper",
+      "artist": "杏里 (Anri)",
+      "has_synced": true,
+      "path": "select/09_Last_Summer_Whisper_杏里_(Anri).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Last Summer Whisper",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/10_Last_Summer_Whisper_Anri.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Last Summer Whisper",
+      "artist": "Anri (杏里)",
+      "has_synced": true,
+      "path": "select/11_Last_Summer_Whisper_Anri_(杏里).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Last Summer Whisper",
+      "artist": "杏里",
+      "has_synced": true,
+      "path": "select/12_Last_Summer_Whisper_杏里.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Last Summer Whisper - Anri",
+      "artist": "Vagabond",
+      "has_synced": true,
+      "path": "select/13_Last_Summer_Whisper_-_Anri_Vagabond.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Last Summer Whisper",
+      "artist": "杏里",
+      "has_synced": false,
+      "path": "select/pl_01_Last_Summer_Whisper_杏里.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Last Summer Whisper",
+      "artist": "杏里",
+      "has_synced": false,
+      "path": "select/pl_02_Last_Summer_Whisper_杏里.txt"
+    }
+  ]
+}
